@@ -1,5 +1,5 @@
 {
-  "name": "api-travel",
+  "name": "tera",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Carolisca/api-tera.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-   
+    "url": "https://github.com/Carolisca/api-tera/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/Carolisca/api-tera#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
